@@ -1,0 +1,1 @@
+{"jobID":"406028e5-940c-d4dc-6fff-bfd5b48ad4a3","spec":{"type":"policy","cause":{"Message":"","User":"J S \u003cjingyi.sanguinet@blackline.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
